@@ -122,21 +122,22 @@ of landmark papers, and histories of the subject.
 
 * **Kendall's Advanced Theory of Statistics** (Alan Stuart and J. Keith
   Ord, Vol. 1, *Distribution Theory*, [6th ed.,
-  1994](https://www.wiley.com/en-us/-p-9780470665305); Alan Stuart, J.
-  Keith Ord, and Steven Arnold, Vol. 2A, *Classical Inference and the
-  Linear Model*, [6th ed.,
-  1999](https://www.wiley.com/en-us/-p-9780470689240); Anthony O'Hagan
-  and Jonathan Forster, Vol. 2B, *Bayesian Inference*, [2nd ed.,
-  2004](https://www.wiley.com/en-us/-p-9780470685693); now Wiley; first
-  ed., Kendall alone, 1943–1946). The large classical reference for
-  distribution theory, moments and cumulants, estimation, and testing.
+  1994](https://www.wiley.com/en-us/Kendall's+Advanced+Theory+of+Statistics%2C+Volume+1%2C+Distribution+Theory%2C+6th+Edition-p-9780470665305);
+  Alan Stuart, J. Keith Ord, and Steven Arnold, Vol. 2A, *Classical
+  Inference and the Linear Model*, [6th ed.,
+  1999](https://www.wiley.com/en-us/Kendall's+Advanced+Theory+of+Statistics%2C+Volume+2A%2C+Classical+Inference+and+the+Linear+Model%2C+6th+Edition-p-9780470689240);
+  Anthony O'Hagan and Jonathan Forster, Vol. 2B, *Bayesian Inference*,
+  [2nd ed.,
+  2004](https://www.wiley.com/en-us/Kendall's+Advanced+Theory+of+Statistics%2C+Volume+2B%2C+Bayesian+Inference%2C+2nd+Edition-p-9780470685693);
+  now Wiley; first ed., Kendall alone, 1943–1946). The large classical
+  reference for distribution theory, moments and cumulants, estimation, and testing.
   Consulted for a formula or a classical result rather than read.
 * **Norman L. Johnson, Samuel Kotz, and N. Balakrishnan, *Distributions
   in Statistics*** (*Continuous Univariate Distributions*
-  [I](https://www.wiley.com/en-us/-p-9780471584957)–[II](https://www.wiley.com/en-us/-p-9780471584940),
+  [I](https://www.wiley.com/en-us/Continuous+Univariate+Distributions%2C+Volume+1%2C+2nd+Edition-p-9780471584957)–[II](https://www.wiley.com/en-us/Continuous+Univariate+Distributions%2C+Volume+2%2C+2nd+Edition-p-9780471584940),
   2nd ed., 1994–1995; *Discrete Multivariate Distributions*,
-  [1997](https://www.wiley.com/en-us/-p-9780471128441); *Continuous
-  Multivariate Distributions*, Vol. 1, 2nd ed.,
+  [1997](https://www.wiley.com/en-us/Discrete+Multivariate+Distributions-p-9780471128441);
+  *Continuous Multivariate Distributions*, Vol. 1, 2nd ed.,
   [2000](https://doi.org/10.1002/0471722065); with Norman L. Johnson,
   Adrienne W. Kemp, and Samuel Kotz, *Univariate Discrete
   Distributions*, 3rd ed., [2005](https://doi.org/10.1002/0471715816);
@@ -514,9 +515,11 @@ parametric models refine the first-order theory of 103A.
   applications.
 * **Nihat Ay, Jürgen Jost, Hông Vân Lê, and Lorenz Schwachhöfer,
   *Information Geometry*** (2017,
-  [Springer](https://doi.org/10.1007/978-3-319-56478-4)). A mathematical
-  monograph on the geometry itself: dualistic structures, and the
-  statistical models as one source of examples.
+  [Springer](https://doi.org/10.1007/978-3-319-56478-4)). A rigorous
+  foundation of information geometry for finite- and infinite-dimensional
+  statistical models. Parametrized measure models, the Fisher metric,
+  the Amari–Chentsov tensor, sufficiency, and statistical inequalities
+  are central.
 
 ---
 
@@ -543,10 +546,9 @@ finite-sample and asymptotic traditions.
 #### Foundational works
 
 * **Erich L. Lehmann, *Nonparametrics: Statistical Methods Based on
-  Ranks*** (revised ed., 2006,
-  [Springer](https://doi.org/10.1007/978-0-387-46324-7); first ed. 1975,
-  Holden-Day), with the special assistance of H. J. M. D'Abrera (revised
-  first ed., Springer reprint, 2006; first ed. 1975). Rank tests and
+  Ranks***, with the special assistance of H. J. M. D'Abrera (revised
+  ed., 2006, [Springer](https://doi.org/10.1007/978-0-387-46324-7); first
+  ed. 1975, Holden-Day). Rank tests and
   estimates for one-, two-, and several-sample problems, blocked
   comparisons, independence, and randomness. The classical textbook.
 * **Jaroslav Hájek, Zbyněk Šidák, and Pranab K. Sen, *Theory of Rank
@@ -575,7 +577,7 @@ finite-sample and asymptotic traditions.
   asymptotic theory of the fits.
 * **Peter J. Green and Bernard W. Silverman, *Nonparametric Regression
   and Generalized Linear Models: A Roughness Penalty Approach***
-  ([Chapman and Hall](https://doi.org/10.1201/b15710)). Smoothing
+  (1994, [Chapman and Hall](https://doi.org/10.1201/b15710)). Smoothing
   splines, roughness penalties, and their extension to generalised
   linear models. A graduate introduction emphasising statistical
   formulation and computation.
@@ -1108,9 +1110,9 @@ interventions and causal assumptions are in Section 109.
   third edition is the one consulted.
 * **K. V. Mardia, J. T. Kent, and J. M. Bibby, *Multivariate Analysis***
   (1979, Academic Press; [2nd
-  ed.](https://www.wiley.com/en-us/-p-9781118738023), 2024, Wiley, by
-  Kanti V. Mardia, John T. Kent, and Charles C. Taylor). Distribution
-  theory, inference, and the descriptive methods of multivariate
+  ed.](https://www.wiley.com/en-us/Multivariate+Analysis%2C+2nd+Edition-p-9781118738023),
+  2024, Wiley, by Kanti V. Mardia, John T. Kent, and Charles C. Taylor).
+  Distribution theory, inference, and the descriptive methods of multivariate
   analysis — principal components, factor analysis, discrimination, and
   clustering. A standard graduate text, less specialised than Anderson.
 * **Robb J. Muirhead, *Aspects of Multivariate Statistical Theory***
@@ -1342,8 +1344,8 @@ multiple testing.
   Press](https://doi.org/10.1017/9781108966351)). Information measures,
   their variational characterisations, and their use for minimax lower
   bounds, density estimation, and hypothesis testing, alongside the
-  coding theorems. The modern graduate reference for the
-  information-theoretic side of statistical theory.
+  coding theorems. An information-theory graduate text with a
+  substantial statistical-learning part.
 * **Jianqing Fan, Runze Li, Cun-Hui Zhang, and Hui Zou, *Statistical
   Foundations of Data Science*** (2020, [Chapman and
   Hall/CRC](https://doi.org/10.1201/9780429096280)). A broad graduate
@@ -1366,11 +1368,13 @@ multiple testing.
   randomized matrix algorithms (114B).
 * **Simon Foucart and Holger Rauhut, *A Mathematical Introduction to
   Compressive Sensing***. Listed in full in Section 29. Sparse recovery,
-  restricted isometry, and random matrices, the noiseless and
-  deterministic counterpart of sparse regression.
+  restricted isometry, and random measurement matrices, including
+  stability under noise and approximate sparsity.
 * **Iain M. Johnstone, *Gaussian Estimation: Sequence and Wavelet
   Models***. Listed in full in Section 104. The Gaussian sequence model
-  is the finite-dimensional picture behind sparse estimation.
+  is a canonical setting for studying sparsity, thresholding, and minimax
+  estimation, connecting finite normal-means problems with infinite
+  sequences and nonparametric function estimation.
 * **Evarist Giné and Richard Nickl, *Mathematical Foundations of
   Infinite-Dimensional Statistical Models***. Listed in full in Section
   7. Concentration and empirical processes in the form closest to the
@@ -1845,14 +1849,15 @@ independence and graphical models are in Section 106.
   sensitivity analysis, with the statistical theory of each estimator. A
   concise graduate text in the potential-outcomes framework.
 * **Miguel A. Hernán and James M. Robins, *Causal Inference: What If***
-  (2020 citation, [Chapman and
+  (authors' suggested citation 2020, [Chapman and
   Hall/CRC](https://www.routledge.com/Causal-Inference-What-If/Hernan-Robins/p/book/9781420076165);
   freely available as an evolving [online
   book](https://miguelhernan.org/whatifbook)). Identification
   assumptions, standardisation, inverse-probability weighting,
   g-methods, and time-varying confounding. A substantial account of
-  observational and longitudinal causal inference; use the authors' site
-  for the current text.
+  observational and longitudinal causal inference. Use the authors' site
+  for the current text; a print edition has been listed for several years
+  and is not yet settled.
 * **Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, *Elements of
   Causal Inference: Foundations and Learning Algorithms*** (2017, [MIT
   Press](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/);
@@ -2000,9 +2005,9 @@ union-of-subspaces models are also treated in 114B.
 * **Jianzhong Wang, *Geometric Structure of High-Dimensional Data and
   Dimensionality Reduction*** (2012,
   [Springer](https://doi.org/10.1007/978-3-642-27497-8)). Spectral
-  embeddings, diffusion maps, and the reproducing-kernel geometry behind
-  manifold learning, treated as a mathematical theory. A systematic
-  companion to the method survey of Lee–Verleysen.
+  embeddings, diffusion maps, and related nonlinear methods, treated as
+  a methods survey with the geometry kept in view. A companion to
+  Lee–Verleysen.
 * **Christopher R. Genovese, Marco Perone-Pacifico, Isabella
   Verdinelli, and Larry Wasserman, “Minimax Manifold Estimation”**
   (2012, [Journal of Machine Learning Research 13,
@@ -2072,8 +2077,9 @@ union-of-subspaces models are also treated in 114B.
 ### 110B. Persistent Homology and Computational Topology
 
 Simplicial complexes built from data, the homology that persists across
-scales, and the inference of geometry from a point sample. A first
-graduate course in algebraic topology is assumed.
+scales, and the inference of geometry from a point sample. Prerequisites
+vary: the introductory texts develop the needed homology, while the
+research monographs require greater algebraic maturity.
 
 #### Foundational works
 
@@ -3007,9 +3013,11 @@ further in 112B, and diffusion models in 112C.
   [Advances in Neural Information Processing Systems
   31](https://proceedings.neurips.cc/paper_files/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html);
   [author manuscript](https://arxiv.org/abs/1806.07572)). In the
-  infinite-width limit with standard scaling, gradient descent on a
-  network is kernel regression with a fixed kernel. The lazy-training
-  regime, in contrast to the mean-field regime of 112B.
+  infinite-width limit with standard scaling, training follows kernel
+  gradient dynamics with a fixed limiting neural tangent kernel. The
+  connection to kernel regression is developed for least-squares loss
+  under suitable convergence conditions. The lazy-training regime;
+  the mean-field regime is treated in 112B.
 * **Mikhail Belkin, Daniel Hsu, Siyuan Ma, and Soumik Mandal,
   “Reconciling Modern Machine-Learning Practice and the Classical
   Bias–Variance Trade-off”** (2019, [Proceedings of the National
@@ -3268,12 +3276,15 @@ Section 8, and online prediction in 107B.
   Control theory, Markov decision processes, stochastic approximation,
   and the ODE analysis of reinforcement-learning algorithms. A
   graduate text written from the control-theoretic side.
-* **Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun,
-  *Reinforcement Learning: Theory and Algorithms*** (draft monograph,
+* **Alekh Agarwal, Kianté Brantley, Nan Jiang, Sham M. Kakade, and Wen
+  Sun, *Reinforcement Learning: Theory and Algorithms*** (unpublished
+  [draft dated 27 June
+  2026](https://rltheorybook.github.io/rltheorybook_ABJKS.pdf);
   [authors' site](https://rltheorybook.github.io/)). Sample complexity
   of tabular and function-approximation reinforcement learning,
   policy-gradient convergence, exploration, and offline learning. The
-  standard theoretical reference; cite the dated draft.
+  standard theoretical reference. Cite the dated draft rather than
+  treating it as a published book.
 
 <a id="cks-113e"></a>
 
@@ -3315,8 +3326,10 @@ on both fairness and shift, in Section 109.
   Pereira, and Jennifer Wortman Vaughan, “A Theory of Learning from
   Different Domains”** (2010, [Machine Learning 79,
   151–175](https://doi.org/10.1007/s10994-009-5152-4)). Target-domain
-  error bounded by source error and a divergence between domains. The
-  basic learning-theoretic bound for domain adaptation.
+  error bounded by source error, a divergence between input
+  distributions, and the best combined source-and-target error within
+  the hypothesis class. The basic learning-theoretic bound for domain
+  adaptation.
 
 #### More recent works
 
@@ -3615,9 +3628,10 @@ Matrix analysis as mathematics is in Section 13.
 * **Madeleine Udell and Alex Townsend, “Why Are Big Data Matrices
   Approximately Low Rank?”** (2019, [SIAM Journal on Mathematics of
   Data Science 1, 144–160](https://doi.org/10.1137/18M1183480)).
-  Matrices generated by smooth latent-variable models have low
-  ε-rank. A mathematical explanation for the success of low-rank
-  models.
+  Matrices generated from bounded latent variables by a piecewise
+  analytic function admit low-rank approximations with controlled
+  entrywise error. A mathematical explanation for the success of
+  low-rank models under these assumptions.
 * **Per-Gunnar Martinsson and Joel A. Tropp, “Randomized Numerical
   Linear Algebra: Foundations and Algorithms”** (2020, [Acta Numerica
   29, 403–572](https://doi.org/10.1017/S0962492920000021)). Random
